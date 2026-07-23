@@ -1,6 +1,8 @@
 # Hi, I'm Chrispine Mndala
 
-I build practical full-stack software with a focus on clean user experiences, reliable backends, and products that solve real operational problems.
+Systems architect and technology consultant building scalable digital platforms, business automation systems, and practical products for organizations across Africa.
+
+### [Explore my live portfolio →](https://chrispine-portfolio.vercel.app)
 
 I work mostly with TypeScript, React, Node.js, Express, PostgreSQL, and modern deployment workflows. My projects often sit at the intersection of business systems, education, healthcare, booking flows, content platforms, and digital tools for organizations in Malawi and beyond.
 
@@ -26,6 +28,7 @@ TypeScript · React · Node.js · Express · PostgreSQL · Drizzle ORM · Vite �
 
 ## Featured Projects
 
+- [ChrispinePortfolio](https://github.com/Chrispine-1210/ChrispinePortfolio) — my professional portfolio, deployed on Vercel
 - [MEC](https://github.com/Chrispine-1210/MEC)
 - [Health-Care-Management-System](https://github.com/Chrispine-1210/Health-Care-Management-System)
 - [Appointments-Booker](https://github.com/Chrispine-1210/Appointments-Booker)
@@ -35,6 +38,7 @@ TypeScript · React · Node.js · Express · PostgreSQL · Drizzle ORM · Vite �
 
 ## Connect
 
+- Portfolio: [chrispine-portfolio.vercel.app](https://chrispine-portfolio.vercel.app)
 - GitHub: [@Chrispine-1210](https://github.com/Chrispine-1210)
 - Location: Lilongwe, Malawi
 - Open to: full-stack development, product engineering, dashboards, automation, and web platform work
