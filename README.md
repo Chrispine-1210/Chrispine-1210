@@ -4,6 +4,13 @@ Systems architect and technology consultant building scalable digital platforms,
 
 ### [Explore my live portfolio →](https://chrispine-portfolio.vercel.app)
 
+```text
+PROFESSIONAL_PROFILE // V1.0
+01011011001010000100010000100011111001100011011100
+10110011111110101101011101101010000000000000110010
+01101010011000011100101011110110010001111011011011
+```
+
 I work mostly with TypeScript, React, Node.js, Express, PostgreSQL, and modern deployment workflows. My projects often sit at the intersection of business systems, education, healthcare, booking flows, content platforms, and digital tools for organizations in Malawi and beyond.
 
 ## What I'm Building
