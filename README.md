@@ -16,10 +16,10 @@ I build web applications, connected infrastructure and business workflows from L
 | :--- | :--- | :--- | :--- |
 | **Chrispine Portfolio** | Engineering work, project case studies and professional background | [Live portfolio](https://chrispine-portfolio.vercel.app) | [Repository](https://github.com/Chrispine-1210/ChrispinePortfolio) |
 | **Aöthothe Technologies** | Technology services and the public introduction to an enterprise operations platform | [Public website](https://aothothe-enterprise-os.vercel.app) | Private |
-| **BookingPro** | Appointment scheduling and service-provider workflows | [Live preview](https://appointments-booker-pi.vercel.app) | [Appointments-Booker](https://github.com/Chrispine-1210/Appointments-Booker) |
-| **Thandizo Healthcare** | Healthcare, pharmacy and inventory workflows | [Live preview](https://health-care-management-system-mocha.vercel.app) | [Health-Care-Management-System](https://github.com/Chrispine-1210/Health-Care-Management-System) |
+| **BookingPro** | Appointment scheduling and service-provider workflows | [Live preview](https://appointments-booker-pi.vercel.app) | [Preview source](https://github.com/Chrispine-1210/Appointments-Booker/tree/305de4a07151996fe7531e60716dbe4c46a3f47d) |
+| **Thandizo Healthcare** | Healthcare, pharmacy and inventory workflows | [Live preview](https://health-care-management-system-mocha.vercel.app) | [Preview source](https://github.com/Chrispine-1210/Health-Care-Management-System/tree/e5e8ad3d8156b9df0f259d1250819a47938af7d4) |
 
-<sub>Public pages checked on 20 November 2026. Page availability does not establish payment activation, production readiness or verified business results. Protected workflows require authorized access.</sub>
+<sub>Public pages checked on 20 November 2026. Preview source links identify the BookingPro and Thandizo commits serving those URLs on that date. Page availability does not establish payment activation, production readiness or verified business results. Protected workflows require authorized access.</sub>
 
 ### More work in development
 
@@ -27,7 +27,7 @@ I build web applications, connected infrastructure and business workflows from L
 | :--- | :--- | :--- |
 | **Mtendere Education Consult (MEC)** | Education consultancy, scholarships and administrative workflows | [Repository](https://github.com/Chrispine-1210/MEC) · Public preview availability needs rechecking |
 | **Thoko Restaurant / CHL Investments** | Restaurant website, ordering and operational tools | [Repository](https://github.com/Chrispine-1210/CHL-INVESTMENTS) · Public preview access needs rechecking |
-| **SUDERN** | Institutional and nonprofit operations | [Repository](https://github.com/Chrispine-1210/Sudern-ORG) · Separate project from Thandizo |
+| **SUDERN** | Institutional and nonprofit operations | [Repository](https://github.com/Chrispine-1210/Sudern-ORG) · Institutional platform in development |
 
 ## Building Aöthothe Technologies
 
