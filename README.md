@@ -1,51 +1,66 @@
-# Hi, I'm Chrispine Mndala
+<p align="center">
+  <img src="./assets/chrispine-aothothe-header.svg" alt="Chrispine Mndala — software, networks and business systems. Founder of Aöthothe Technologies, Lilongwe, Malawi." width="100%" />
+</p>
 
-Systems architect and technology consultant building scalable digital platforms, business automation systems, and practical products for organizations across Africa.
+# Chrispine Mndala
 
-### [Explore my live portfolio →](https://chrispine-portfolio.vercel.app)
+**Software & systems engineer · Network technician · Founder, Aöthothe Technologies**
 
-```text
-PROFESSIONAL_PROFILE // V1.0
-01011011001010000100010000100011111001100011011100
-10110011111110101101011101101010000000000000110010
-01101010011000011100101011110110010001111011011011
-```
+I build web applications, connected infrastructure and business workflows from Lilongwe, Malawi. My background combines software development, computer networks, data analysis, marketing and commercial operations. I bring those disciplines together to turn operational problems into practical systems.
 
-I work mostly with TypeScript, React, Node.js, Express, PostgreSQL, and modern deployment workflows. My projects often sit at the intersection of business systems, education, healthcare, booking flows, content platforms, and digital tools for organizations in Malawi and beyond.
+**[Explore my portfolio](https://chrispine-portfolio.vercel.app)** · **[Aöthothe Technologies](https://aothothe-enterprise-os.vercel.app)** · **[Discuss a project](https://chrispine-portfolio.vercel.app/contact)**
 
-## What I'm Building
+## Selected projects & public previews
 
-- **MEC**: an education consultancy platform with public web experiences, admin workflows, payments, communication tooling, and production API infrastructure.
-- **Health-Care-Management-System**: healthcare operations software built with a TypeScript stack.
-- **Appointments-Booker**: scheduling and booking workflows for service-based organizations.
-- **LeadersSpark-Blogs**: content publishing and blog platform work.
-- **BrandGenius**: brand and business tooling experiments.
-- **duwa**: Chewa language work using Go.
+| Project | Purpose | Explore | Source |
+| :--- | :--- | :--- | :--- |
+| **Chrispine Portfolio** | Engineering work, project case studies and professional background | [Live portfolio](https://chrispine-portfolio.vercel.app) | [Repository](https://github.com/Chrispine-1210/ChrispinePortfolio) |
+| **Aöthothe Technologies** | Technology services and the public introduction to an enterprise operations platform | [Public website](https://aothothe-enterprise-os.vercel.app) | Private |
+| **BookingPro** | Appointment scheduling and service-provider workflows | [Live preview](https://appointments-booker-pi.vercel.app) | [Appointments-Booker](https://github.com/Chrispine-1210/Appointments-Booker) |
+| **Thandizo Healthcare** | Healthcare, pharmacy and inventory workflows | [Live preview](https://health-care-management-system-mocha.vercel.app) | [Health-Care-Management-System](https://github.com/Chrispine-1210/Health-Care-Management-System) |
 
-## Current Focus
+<sub>Public pages checked on 20 November 2026. Page availability does not establish payment activation, production readiness or verified business results. Protected workflows require authorized access.</sub>
 
-- Building reliable full-stack products from idea to deployment.
-- Improving API stability, startup diagnostics, and production readiness.
-- Creating admin dashboards and operational tools that are simple to use.
-- Working with PostgreSQL, authentication, payments, email delivery, and automation.
+### More work in development
 
-## Tech I Use
+| Project | Focus | Current public reference |
+| :--- | :--- | :--- |
+| **Mtendere Education Consult (MEC)** | Education consultancy, scholarships and administrative workflows | [Repository](https://github.com/Chrispine-1210/MEC) · Public preview availability needs rechecking |
+| **Thoko Restaurant / CHL Investments** | Restaurant website, ordering and operational tools | [Repository](https://github.com/Chrispine-1210/CHL-INVESTMENTS) · Public preview access needs rechecking |
+| **SUDERN** | Institutional and nonprofit operations | [Repository](https://github.com/Chrispine-1210/Sudern-ORG) · Separate project from Thandizo |
 
-TypeScript · React · Node.js · Express · PostgreSQL · Drizzle ORM · Vite · Tailwind CSS · GitHub Actions · Vercel · Neon · Stripe
+## Building Aöthothe Technologies
 
-## Featured Projects
+**Infrastructure that lasts.**
 
-- [ChrispinePortfolio](https://github.com/Chrispine-1210/ChrispinePortfolio) — my professional portfolio, deployed on Vercel
-- [MEC](https://github.com/Chrispine-1210/MEC)
-- [Health-Care-Management-System](https://github.com/Chrispine-1210/Health-Care-Management-System)
-- [Appointments-Booker](https://github.com/Chrispine-1210/Appointments-Booker)
-- [Portfolio](https://github.com/Chrispine-1210/Portfolio)
-- [BrandGenius](https://github.com/Chrispine-1210/BrandGenius)
-- [duwa](https://github.com/Chrispine-1210/duwa)
+Aöthothe is the technology business I am building around enterprise software, managed IT services and business automation. The direction is practical: connect the public website, internal records, people and daily work in a system an organization can maintain.
+
+| Area | Work I focus on |
+| :--- | :--- |
+| **Enterprise software** | Customer portals, admin workspaces, APIs and database-backed workflows |
+| **Managed IT & networks** | Systems support, connectivity, maintenance and recovery planning |
+| **Automation & reporting** | Operational dashboards, data collection and repeatable processes |
+| **Delivery foundations** | Access controls, audit records, release verification and documentation |
+
+The Enterprise OS is under development. Its public homepage is an introduction; internal operations and commercial activation follow their own verification and approval requirements.
+
+## Engineering toolkit
+
+| Discipline | Technologies & practice |
+| :--- | :--- |
+| **Interfaces** | TypeScript, React, Vite, Tailwind CSS, responsive UI, accessible interactions |
+| **Services & data** | Node.js, Express, PostgreSQL, Drizzle ORM, Neon |
+| **Infrastructure** | TCP/IP, routing, DNS, Cisco Packet Tracer, network troubleshooting |
+| **Delivery** | Git, GitHub, Vercel, automated tests and deployment verification |
+| **Business & analysis** | Excel, dashboards, monitoring & evaluation, project coordination |
+
+Current engineering priorities include durable data, authentication, dependable communication, recovery and clear evidence of what a release actually supports.
 
 ## Connect
 
-- Portfolio: [chrispine-portfolio.vercel.app](https://chrispine-portfolio.vercel.app)
-- GitHub: [@Chrispine-1210](https://github.com/Chrispine-1210)
-- Location: Lilongwe, Malawi
-- Open to: full-stack development, product engineering, dashboards, automation, and web platform work
+- **Base:** Lilongwe, Malawi · English & Chichewa
+- **Work:** Full-stack development, network and systems support, business software, dashboards and automation
+- **Portfolio:** [chrispine-portfolio.vercel.app](https://chrispine-portfolio.vercel.app)
+- **Aöthothe:** [aothothe-enterprise-os.vercel.app](https://aothothe-enterprise-os.vercel.app)
+- **LinkedIn:** [Chrispine Mndala](https://www.linkedin.com/in/chrispine-mndala-25b338236)
+- **Project enquiries:** [Contact me](https://chrispine-portfolio.vercel.app/contact)

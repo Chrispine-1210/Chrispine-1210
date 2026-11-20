@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Chrispine Mndala — Engineer and founder</title>
+  <desc id="desc">Software, networks and business systems. Founder of Aöthothe Technologies. Lilongwe, Malawi.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#0A1E3D"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 H 0 V 32" fill="none" stroke="#F5F3EB" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="380" rx="16" fill="url(#canvas)"/>
+  <rect width="1200" height="380" rx="16" fill="url(#grid)"/>
+  <path d="M 0 379 H 1200" stroke="#C9A227" stroke-width="3"/>
+  <g fill="none" stroke-width="1.5">
+    <path d="M 843 78 H 1010 V 170 H 1142" stroke="#C9A227" stroke-opacity=".6"/>
+    <path d="M 905 78 V 240 H 1142" stroke="#F5F3EB" stroke-opacity=".15"/>
+    <path d="M 840 290 H 972 V 205 H 1142" stroke="#6C967A" stroke-opacity=".6"/>
+    <rect x="952" y="123" width="116" height="94" rx="8" fill="#0A1E3D" stroke="#F5F3EB" stroke-opacity=".14"/>
+    <rect x="970" y="141" width="80" height="58" rx="3" stroke="#C9A227" stroke-opacity=".5"/>
+    <path d="M 993 157 L 982 170 L 993 183 M 1027 157 L 1038 170 L 1027 183 M 1018 153 L 1003 187" stroke="#F5F3EB" stroke-opacity=".9"/>
+  </g>
+  <g fill="#C9A227">
+    <circle cx="843" cy="78" r="4"/>
+    <circle cx="1142" cy="170" r="4"/>
+  </g>
+  <g fill="#6C967A">
+    <circle cx="840" cy="290" r="4"/>
+    <circle cx="1142" cy="205" r="4"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="62" fill="#C9A227" font-size="15" font-weight="700" letter-spacing="2.8">ENGINEER &amp; FOUNDER</text>
+    <text x="52" y="141" fill="#F5F3EB" font-size="60" font-weight="700" letter-spacing="-2">Chrispine Mndala</text>
+    <text x="56" y="192" fill="#D4DCE6" font-size="23">Software. Networks. Business systems.</text>
+    <path d="M 56 226 H 112" stroke="#C9A227" stroke-width="3"/>
+    <text x="56" y="270" fill="#F5F3EB" font-size="20" font-weight="700">Aöthothe Technologies</text>
+    <text x="56" y="303" fill="#B7C6D8" font-size="17">Infrastructure that lasts.</text>
+    <text x="56" y="350" fill="#B7C6D8" font-size="14" letter-spacing="1.5">LILONGWE, MALAWI</text>
+    <text x="1144" y="350" fill="#B7C6D8" text-anchor="end" font-size="14" letter-spacing="1.5">BUILDING FROM MALAWI</text>
+  </g>
+</svg>
